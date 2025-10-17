@@ -15,14 +15,14 @@ I specialize in **embedded systems, IoT applications, UI/UX design**, and **grap
 - 📍 Based in: **Hà Nội, Việt Nam**  
 📧 Email: [maivudung.work@gmail.com](mailto:maivudung.work@gmail.com)  
 🔗 Behance: [behance.net/maivudungworkspace](https://www.behance.net/maivudungworkspace)  
-📘 Facebook: [fb.com/toila.dung0309](https://facebook.com/toila.dung0309)
+📘 Facebook: [fb.com/toila.dung0309](https://facebook.com/toiladung0309)
 
 
 ## 🏆 Achievements
 
 - 🥉 **3rd Prize** – Scientific Research (University Level)  
   *Project: Smart Home Security Solution* 
-  🥉 **3rd Prize** – Scientific Research (University Level)
+- 🥉 **3rd Prize** – Scientific Research (University Level)
   *Project: Using QR Code To Manage Warehouse*
   - 🎓 **UX/UI Certificate** – Coursera  
 - 💬 **Semi Tech Zoomer** – Certificate for Participation  
